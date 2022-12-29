@@ -12,12 +12,6 @@ const About = () => {
                 <div className="about-content">
 
                     <div style={{ marginBottom: 15 }}>
-                        <Text transform="uppercase" weight={500} color="yellow">
-                            MADE WITH REACT AND MANTINE
-                        </Text>
-                    </div>
-
-                    <div style={{ marginBottom: 15 }}>
                         <Text>
                             <MediaQuery query="(max-width: 768px)" styles={{ fontSize: '2.8rem !important' }}>
                                 <h1 className="title">Capture Agents</h1>
