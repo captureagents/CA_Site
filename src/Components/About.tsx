@@ -20,14 +20,14 @@ const About = () => {
                     <div style={{ marginBottom: 15 }}>
                         <Text>
                             <MediaQuery query="(max-width: 768px)" styles={{ fontSize: '2.8rem !important' }}>
-                                <h1 className="title">Simple Mantine Template</h1>
+                                <h1 className="title">Capture Agents</h1>
                             </MediaQuery>
                         </Text>
                     </div>
 
                     <div style={{ marginBottom: 25 }}>
                         <Text size="xl" color="black">
-                            Simple showcase of this powerful and well implemented library called <Anchor href="https://mantine.dev/">Mantine</Anchor>.
+                            We <Anchor href="https://mantine.dev/">3D Capture</Anchor> your property, and provide interactive tours to boost engagement on listings. 
                         </Text>
                     </div>
 
