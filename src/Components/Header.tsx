@@ -12,14 +12,14 @@ const Header = () => {
         <header>
             <div className="content-desktop">
                 <div>
-                    <Badge size="lg" radius={10} color="yellow">A simple Mantine template</Badge>
+                    <Badge size="lg" radius={10} color="yellow">Capture Agents</Badge>
                 </div>
                 <div className="navbar">
                     <div className="navbar-item"><Link to="section-one" smooth duration={500}>Carousel</Link></div>
                     <div className="navbar-item"><Link to="section-four" smooth duration={500}>Cards</Link></div>
                     <div className="navbar-item"><Link to="section-five" smooth duration={500}>FAQS</Link></div>
 
-                    <Button color="yellow" onClick={() => redirectToLink('https://mantine.dev/')}>Check out Mantine</Button>
+                    <Button color="yellow" onClick={() => redirectToLink('https://mantine.dev/')}>Schedule</Button>
                 </div>
             </div>
 

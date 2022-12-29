@@ -7,7 +7,7 @@ const SectionFour = () => {
         <section id="section-four">
             <Container>
                 <Text color="black" align="center">
-                    <Title order={1} mb="30px">These cards are really nice</Title>
+                    <Title order={1} mb="30px">Easy as three steps</Title>
                 </Text>
 
                 <Grid>

@@ -44,13 +44,13 @@ const SectionOne = () => {
                     <Carousel.Slide>
                         <div style={carouselContent}>
                             <Title order={2}>1</Title>
-                            <Text>Write something here.</Text>
+                            <Text>Schedule</Text>
                         </div>
                     </Carousel.Slide>
                     <Carousel.Slide>
                         <div style={carouselContent}>
                             <Title order={2}>2</Title>
-                            <Text>Something here too.</Text>
+                            <Text>Capture</Text>
                         </div>
                     </Carousel.Slide>
                     <Carousel.Slide>

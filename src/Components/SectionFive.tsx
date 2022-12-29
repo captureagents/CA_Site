@@ -10,16 +10,16 @@ const SectionFive = () => {
                 <div style={{ marginBottom: 30 }}>
                     <div style={{ textAlign: 'left' }}><Badge variant="filled" color="yellow">FAQs</Badge></div>
                     <Text color="black">
-                        <Title order={1} style={{ marginTop: 10 }}>Woah, Frequently asked questions here</Title>
+                        <Title order={1} style={{ marginTop: 10 }}>Frequently asked questions</Title>
                     </Text>
                 </div>
 
                 <Accordion variant="contained">
                     <Accordion.Item value="item1">
                         <Accordion.Control icon={<FiCoffee size={20} color={"#fab005"} />}>
-                            Is Dennis Farina famous?
+                            How long does it take? 
                         </Accordion.Control>
-                        <Accordion.Panel>Yes, of course.</Accordion.Panel>
+                        <Accordion.Panel>We deliver scans with quick turnaround ... text goes here</Accordion.Panel>
                     </Accordion.Item>
 
                     <Accordion.Item value="item2">

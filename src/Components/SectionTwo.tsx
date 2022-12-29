@@ -10,9 +10,8 @@ const SectionTwo = () => {
                     <Grid.Col xs={6} sm={8} md={8} lg={8}>
                         <div style={{ marginBottom: 20 }}>
                             <Text color="black">
-                                <Title order={1}>You can put whatever you want here</Title>
-                                Dennis Farina was one of Hollywood's busiest actors and a familiar face to moviegoers and television viewers alike.
-                                In 1998's "Saving Private Ryan," directed by Steven Spielberg, Farina played "Col. Anderson," a pivotal role in the film.
+                                <Title order={1}>Capture Attention</Title>
+                                Boost engagement on your listing. Here's more reasons why...
                             </Text>
                         </div>
                         <Button color="yellow">Check it out</Button>
