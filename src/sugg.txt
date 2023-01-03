@@ -1,0 +1,9 @@
+Gotcha! So I checked the server and everything should be okay to connect. It seems to be working for other players.
+My suggestions: 
+Verify integrity of game files- a corrupt file could be causing errors 
+Here's how to fix it.
+
+Follow this tutorial on how to join the server. Don't use third party launchers like DayZSALauncher because users have had issues with these. 
+
+Make sure BattleEye is running correctly- this is something that DayZ requires for servers to be joinable. Sometimes anti-virus and firewalls block it from running.  
+
